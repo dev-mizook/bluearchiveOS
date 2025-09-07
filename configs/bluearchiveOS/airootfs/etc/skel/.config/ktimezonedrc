@@ -1,0 +1,4 @@
+[TimeZones]
+LocalZone=Australia/Sydney
+ZoneinfoDir=/usr/share/zoneinfo
+Zonetab=/usr/share/zoneinfo/zone.tab
