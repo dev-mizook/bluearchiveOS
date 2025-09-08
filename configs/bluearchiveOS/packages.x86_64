@@ -35,6 +35,7 @@ gpart
 gpm
 gptfdisk
 grml-zsh-config
+zsh
 grub
 hdparm
 hyperv
@@ -162,3 +163,5 @@ kate
 dolphin
 ttf-dejavu
 ttf-liberation
+ufw
+discover
